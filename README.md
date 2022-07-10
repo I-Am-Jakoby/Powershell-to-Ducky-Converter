@@ -1,5 +1,11 @@
 ![hak 5](https://github.com/I-Am-Jakoby/hak5-submissions/blob/main/Assets/hak5-sub.png)
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+Am+Jakoby....&center=true&size=30">
+  </a>
+</h1>
+
 # Powershell to Ducky Converter
 This is an application I am developing to automatically convert powershell scripts into ready to use Ducky scripts
 
