@@ -1,6 +1,6 @@
 Function Main {
 $file1 = "$env:TMP\p2dVer.txt"
-iwr https://raw.githubusercontent.com/I-Am-Jakoby/Powershell-to-Ducky-Converter/main/Version/v.txt -o $file1
+iwr https://raw.githubusercontent.com/I-Am-Jakoby/Powershell-to-Ducky-Converter/main/app/Version/v.txt -o $file1
 $text = [IO.File]::ReadAllText($file1)
 [IO.File]::WriteAllText($file1, $text.TrimEnd())
 $gitVer = Get-Content -Path $file1 -TotalCount 1
