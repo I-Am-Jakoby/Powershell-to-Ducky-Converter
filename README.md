@@ -6,8 +6,23 @@
   </a>
 </h1>
 
-# Powershell to Ducky Converter
-This is an application I am developing to automatically convert powershell scripts into ready to use Ducky scripts
+<h1 align="center">😈 Powershell to Ducky Script Converter 😈</h1>
+
+I am a huge fan of [Hak5.](https://shop.hak5.org/) 
+
+I am also the most published hacker on their website. 🏆
+
+I get a lot of questions about how to write and deploy payloads. You can check mine out [HERE.](https://shop.hak5.org/search?type=article&q=I+am+Jakoby)
+
+I made a [Powershell for Hackers](https://github.com/I-Am-Jakoby/PowerShell-for-Hackers) repository to teach people how to write their own payloads.
+
+Then I made this repository to provide both an application and CLI of a script I wrote to convert powershell to ducky scripts 
+
+for fast and easy deployment of the payloads you make. 
+
+If you find this or any of my other repositories helpful please leave a star ⭐
+
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
