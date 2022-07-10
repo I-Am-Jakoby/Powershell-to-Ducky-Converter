@@ -37,6 +37,51 @@ This is an application I am developing to automatically convert powershell scrip
 </table>
 </div>
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
+<!-- YOUTUBE:START -->
+
+<h2 align="center">📺 Latest YouTube videos 📺</h2>
+
+<div align=center>
+<table>
+  <tr>
+    <td align="center" width="300">
+      <a href="https://www.youtube.com/watch?v=VPU7dFzpQrM">
+        <img src=https://i.ytimg.com/vi/VPU7dFzpQrM/hqdefault.jpg width="300" alt="C#" />
+      </a>
+      <br>DropBox Upload
+    </td>
+    <td align="center" width="300">
+      <a href="https://www.youtube.com/watch?v=WoSStYclB7c">
+        <img src=https://i.ytimg.com/vi/WoSStYclB7c/hqdefault.jpg width="300" alt="Python" />
+      </a>
+      <br>Detect OMG Cable
+    </td>
+    <td align="center" width="300">
+      <a href="https://www.youtube.com/watch?v=nBNmupIBI54">
+        <img src=https://i.ytimg.com/vi/nBNmupIBI54/hqdefault.jpg width="300" alt="Golang" />
+      </a>
+      <br>UAC Bypass
+    </td>
+  </tr>
+</table>
+</div>
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://custom-icon-badges.herokuapp.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/>](https://youtube.com/c/IamJakoby?sub_confirmation=1)
+
+
+<!-- YOUTUBE:END -->
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
+
