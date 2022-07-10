@@ -22,7 +22,7 @@ for fast and easy deployment of the payloads you make.
 
 If you find this or any of my other repositories helpful please leave a star ⭐
 
-
+You can also find a lot of helping tutorials and learning material on my [YouTube](https://youtube.com/c/IamJakoby?sub_confirmation=1) 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
