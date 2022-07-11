@@ -30,7 +30,12 @@ You can also find a lot of tutorials and helpful learning material on my [YouTub
 ![StartUp](https://github.com/I-Am-Jakoby/Powershell-to-Ducky-Converter/raw/main/P2D-Converter/Assets/ReadMe-Imgs/runBat.jpg)
 
 <h3 align="left">✅ The App will check for an update each time it is ran. If one is available you'll see the following screen ✅</h3>
-<img src=https://github.com/I-Am-Jakoby/Powershell-to-Ducky-Converter/raw/main/P2D-Converter/Assets/ReadMe-Imgs/update.jpg width="200" alt="Golang" />
+<h3 align="left">☣️ Once the main form loads fill out the following fields and hit generate                                   ☣️</h3>
+<img src=https://github.com/I-Am-Jakoby/Powershell-to-Ducky-Converter/raw/main/P2D-Converter/Assets/ReadMe-Imgs/p2d-explainer.png width="600" alt="Golang" />
+
+<h3 align="left">💲 A Ducky script will be generated that looks something like this                                 💲</h3>
+<img src=https://github.com/I-Am-Jakoby/Powershell-to-Ducky-Converter/raw/main/P2D-Converter/Assets/ReadMe-Imgs/Ducky-Ex.jpg width="600" alt="Golang" />
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
