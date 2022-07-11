@@ -25,6 +25,14 @@ If you find this or any of my other repositories helpful please leave a star ⭐
 You can also find a lot of tutorials and helpful learning material on my [YouTube](https://youtube.com/c/IamJakoby?sub_confirmation=1) 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+<h3 align="left">🖥️ Start the App by running the StartUp.bat file in the Root Directory 🖥️</h3>
+
+![StartUp](https://github.com/I-Am-Jakoby/Powershell-to-Ducky-Converter/raw/main/P2D-Converter/Assets/ReadMe-Imgs/runBat.jpg)
+
+<h3 align="left">✅ The App will check for an update each time it is ran. If one is available you'll see the following screen ✅</h3>
+<img src=https://github.com/I-Am-Jakoby/Powershell-to-Ducky-Converter/raw/main/P2D-Converter/Assets/ReadMe-Imgs/update.jpg width="200" alt="Golang" />
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 <h2 align="center">📱 My Socials 📱</h2>
 <div align=center>
