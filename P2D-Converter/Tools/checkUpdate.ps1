@@ -1,4 +1,4 @@
-$myVer = 1.0
+$myVer = 1.2
 #-------------------------------------------------------------------------------------------------------
 
 $Root = ([IO.FileInfo] $MyInvocation.MyCommand.Path).Directory.Parent.FullName
